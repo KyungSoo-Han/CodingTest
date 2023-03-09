@@ -2,6 +2,9 @@ package com.example.StringTest;
 
 import java.util.Scanner;
 
+/**
+ * 특정 문자 뒤집기
+ */
 public class StringTest05 {
     public static void main(String[] args) {
 

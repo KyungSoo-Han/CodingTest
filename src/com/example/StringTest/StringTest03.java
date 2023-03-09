@@ -2,6 +2,9 @@ package com.example.StringTest;
 
 import java.util.Scanner;
 
+/**
+ * 문자 속 단어
+ */
 public class StringTest03 {
     public static void main(String[] args) {
         StringTest03 t = new StringTest03();

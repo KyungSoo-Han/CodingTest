@@ -3,6 +3,9 @@ package com.example.StringTest;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * 단어 뒤집기
+ */
 public class StringTest04 {
     public static void main(String[] args) {
         StringTest04 t = new StringTest04();

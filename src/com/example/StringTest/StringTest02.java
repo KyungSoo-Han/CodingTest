@@ -2,15 +2,15 @@ package com.example.StringTest;
 
 import java.util.Scanner;
 
+/**
+ * 대소문자 변환
+ */
 public class StringTest02 {
     public static void main(String[] args) {
         StringTest02 T = new StringTest02();
         Scanner kb = new Scanner(System.in);
         String str = kb.next();
         System.out.println("T.solution(str) = " + T.solution(str) );
-
-
-
     }
 
     private String solution(String str) {
