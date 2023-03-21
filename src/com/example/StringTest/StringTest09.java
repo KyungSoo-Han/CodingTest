@@ -19,7 +19,7 @@ public class StringTest09 {
     }
 
     /**
-     * Charter 클래스 이용
+     * Character 클래스 이용
      * @param s
      * @return
      */
